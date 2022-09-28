@@ -1,0 +1,11 @@
+.container{
+    padding: 50px 20px;
+    background: #ffc10769;
+}
+h1{
+    font-size: 60px;
+}
+p{
+	margin-top: 20px;
+	font-size: 20px;
+}
